@@ -3,7 +3,7 @@ Repositório referente a atividade [RPNStacker Adhoc] da disciplina de Compilado
 Cada etapa da atividade foi feita separadamente e os resultados para cada uma delas podem ser vistos de acordo as _tags_ criadas neste repositório. Assim, o acompanhamento das entregas pode ser analisado de acordo com:
 - [Task 01](https://github.com/matheusvtna/RPNStacker/tree/Task-01): Primeira entrega da atividade contendo apenas um código simples em Java contendo a implementação da RPNStacker usando uma pilha como estrutura de dados;
 - [Task 02](https://github.com/matheusvtna/RPNStacker/tree/Task-02): Segunda entrega da atividade contendo a inserção do código em um Java _project_ e realizada a implementação da _feature_ de _scanning_;
-- [Task 03](): Terceira entrega da atividade contendo o projeto Postfix (disponibilizado pelo professor com a base para a atividade) foi atualizado para dar suporte ao uso de variáveis/ids. Nessa versão, os projetos das Tasks 01 e 02 foram deletados e foi mantido apenas o projeto Postfix.
+- [Task 03](https://github.com/matheusvtna/RPNStacker/tree/Task-03): Terceira entrega da atividade contendo o projeto Postfix (disponibilizado pelo professor com a base para a atividade) foi atualizado para dar suporte ao uso de variáveis/ids. Nessa versão, os projetos das Tasks 01 e 02 foram deletados e foi mantido apenas o projeto Postfix.
 
 # Roteiro
 
