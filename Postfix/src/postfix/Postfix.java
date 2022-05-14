@@ -58,8 +58,6 @@ public class Postfix {
 
 		debugging = false; // for interpretation phases
 		run(args, debugging);
-		
-		// System.out.println("Working Directory = " + System.getProperty("user.dir"));
 	}
 
 	/**
